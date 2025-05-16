@@ -1,0 +1,1 @@
+cmd = depr_RMST.macs2_peaks.narrowPeak hg38_chr12/chr12.fa homer1_chr12
